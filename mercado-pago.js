@@ -1,1 +1,2 @@
-const m = 'mercado pago'
+const m = 'mercado pago';
+const p = 'pagamento'
